@@ -1,0 +1,47 @@
+body{
+    background-color:rgb(151, 202, 243);
+    font-style: poppins;
+    text-decoration: wavy;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+    
+}
+button{
+    background-color:white;
+    cursor: pointer;
+    text-decoration: none;
+    border: pink;
+    border-radius: 15px;
+    
+
+
+}
+button:hover{
+     background-color: rgb(131, 192, 169);
+     text-shadow: white;
+    }
+img{
+    height: 250px;
+    width: 250px;
+    cursor:grab;    
+
+}
+.card{
+    background-color: #ffffff;
+    border-radius: 15px;
+    flex-direction: column;
+    padding-left: 0pc;
+    padding-bottom: 50px;
+    width:400px ;
+    box-shadow: 0 4px 8px rgba(0,0,0,0);
+    align-items: center;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+
+
+
+}
